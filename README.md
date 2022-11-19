@@ -7,5 +7,5 @@ $n+2$ qubits. 2 qubit unitary gate is used to specify the amplitude
 of each quantum state.
 
 This circuit is designed for storing two 10 bit quantum states  with amplitude
- $\frac{1}{\sqrt(2)}$
+ $\textstyle\frac{1}{\sqrt2}$.
 
